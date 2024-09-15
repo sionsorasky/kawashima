@@ -1,1 +1,38 @@
-i
+.kaisei-opti-regular {
+  font-family: "Kaisei Opti", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kaisei-opti-medium {
+  font-family: "Kaisei Opti", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.kaisei-opti-bold {
+  font-family: "Kaisei Opti", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+section {
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.hello {
+    background-image: url(../images/無題141_20240914203457.png);
+    text-align: center;
+    padding-top: 10vh;
+}
+
+.c {
+    text-align: center;
+}
+
+.title {
+    text-size: 50px;
+}
