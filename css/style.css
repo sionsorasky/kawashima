@@ -43,8 +43,11 @@ section {
     padding-top: 10vh;
 }
 
+
+
+@media screen and (min-width: 481px)　{
     p {
-        font-size: 40px;
+      font-size: 40px;
     }
     h3 {
       font-size: 60px;
@@ -55,5 +58,4 @@ section {
     h1 {
       font-size: 80px;
     }
-
-@media screen and (min-width: 481px)　{ }
+}
