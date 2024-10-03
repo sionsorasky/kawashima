@@ -36,3 +36,9 @@ section {
 .title {
     text-size: 50px;
 }
+
+.japan-g {
+    background-image: url(../images/1643265730-2021_12-03.jpg);
+    text-align: center;
+    padding-top: 10vh;
+}
