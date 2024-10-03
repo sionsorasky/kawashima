@@ -43,7 +43,18 @@ section {
     padding-top: 10vh;
 }
 
-
+    p {
+        font-size: 20px;
+    }
+    h3 {
+      font-size: 30px;
+    }
+    h2 {
+      font-size: 40px;
+    }
+    h1 {
+      font-size: 60px;
+    }
 
 @media screen and (min-width: 481px)　{
     p {
