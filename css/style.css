@@ -56,7 +56,7 @@ section {
       font-size: 60px;
     }
 
-@media screen and (min-width: 481px)　{
+@media screen and (max-width: 480px)　{
     p {
       font-size: 40px;
     }
