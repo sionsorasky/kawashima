@@ -42,3 +42,5 @@ section {
     text-align: center;
     padding-top: 10vh;
 }
+
+@media screen and (min-width: 481px)　{ }
